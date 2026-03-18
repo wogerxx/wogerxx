@@ -32,6 +32,6 @@
 [→ Link your repo when ready, e.g. github.com/wogerxx/django-jwt-template]
 
 **Crypto Data Analysis Dashboard** — API-fetched crypto data → Pandas analysis → Matplotlib visualizations  
-[→ Create & link this new repo below]
+[→ github.com/wogerxx/crypto-analysis-dashboard](https://github.com/wogerxx/crypto-analysis-dashboard)
 
 Feel free to explore my repos or reach out! 🚀
