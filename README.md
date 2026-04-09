@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Amin Miraimov</h1>
-<h3 align="center">Motivated Backend Developer from Uzbekistan</h3>
+<h1 align="center"> Muhammad Amin Miraimov</h1>
+
 
 <p align="center">
   <a href="mailto:muhammadmiraimov11@gmail.com">📧 Email</a> •
@@ -27,9 +27,6 @@
 ### 🚀 Featured Projects
 **DevSearch** — Full-stack developer portfolio platform with tag/skill search  
 [→ github.com/wogerxx/Devsearch](https://github.com/wogerxx/Devsearch)
-
-**Authentication API** — Secure JWT-based REST API with user management  
-[→ Link your repo when ready, e.g. github.com/wogerxx/django-jwt-template]
 
 **Crypto Data Analysis Dashboard** — API-fetched crypto data → Pandas analysis → Matplotlib visualizations  
 [→ github.com/wogerxx/crypto-analysis-dashboard](https://github.com/wogerxx/crypto-analysis-dashboard)
