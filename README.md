@@ -31,4 +31,4 @@
 **Crypto Data Analysis Dashboard** — API-fetched crypto data → Pandas analysis → Matplotlib visualizations  
 [→ github.com/wogerxx/crypto-analysis-dashboard](https://github.com/wogerxx/crypto-analysis-dashboard)
 
-Feel free to explore my repos or reach out! 🚀
+Feel free to explore my repos or reach out! 
