@@ -8,13 +8,13 @@
 </p>
 
 ### About Me
-- 🎯 Backend-focused developer skilled in **Python**, **Django**, **REST APIs**, authentication (JWT), PostgreSQL & data analysis (Pandas).
-- 🔭 Currently building scalable web apps and exploring cybersecurity + data trends.
-- 🎓 Computer Engineering student at Turin Polytechnic University in Tashkent.
-- 🌱 Always learning: clean code, secure systems, and data visualization.
-- 📫 Open to backend roles, internships, or international Master's programs!
+-  Backend-focused developer skilled in **Python**, **Django**, **REST APIs**, authentication (JWT), PostgreSQL & data analysis (Pandas).
+-  Currently building scalable web apps and exploring cybersecurity + data trends.
+-  Computer Engineering student at Turin Polytechnic University in Tashkent.
+-  Always learning: clean code, secure systems, and data visualization.
+-  Open to backend roles, internships, or international Master's programs!
 
-### 🛠 Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-### 🚀 Featured Projects
+###  Featured Projects
 **DevSearch** — Full-stack developer portfolio platform with tag/skill search  
 [→ github.com/wogerxx/Devsearch](https://github.com/wogerxx/Devsearch)
 
