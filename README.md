@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:muhammadmiraimov11@gmail.com">📧 Email</a> •
   <a href="https://github.com/wogerxx">GitHub</a> •
-  +998 94 048 51 06
+  +998 93 666 63 96
 </p>
 
 ### About Me
